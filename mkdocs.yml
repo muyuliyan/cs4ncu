@@ -165,6 +165,7 @@ nav:
 
   # 顶层导航 5: 贡献与开发
   - '贡献与开发':
+    - '仓库结构详解': 'guides/repository-structure.md'
     - '如何贡献': 'guides/contributing/how-to-contribute.md'
     - '行为准则': 'guides/contributing/code-of-conduct.md'
     - '搭建开发环境': 'guides/contributing/development-setup.md'

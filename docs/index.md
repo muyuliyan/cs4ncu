@@ -33,7 +33,8 @@ CS for NCU 的生命力源于社区的开放与共享。我们诚挚地邀请您
 
 !!! example "如何参与贡献？"
     1.  我们建议您首先阅读项目的 **[贡献指南](./guides/contributing/how-to-contribute.md)**，以了解协作的基本流程。
-    2.  您可以从解决一个标记为 **[good first issue](https://github.com/NCUSCC/cs4ncu/labels/good%20first%20issue)** 的任务开始，迈出贡献的第一步。
+    2.  如果您想深入了解项目的组织结构，可以查看 **[仓库结构详解](./guides/repository-structure.md)**。
+    3.  您可以从解决一个标记为 **[good first issue](https://github.com/NCUSCC/cs4ncu/labels/good%20first%20issue)** 的任务开始，迈出贡献的第一步。
     3.  若在阅读过程中发现任何笔误或有待改进之处，直接点击页面右上方的 **“编辑此页”** 按钮，即可轻松提交您的修订建议。
 
 让我们共同努力，构建并维护一份真正能帮助到后来者的学习资源。

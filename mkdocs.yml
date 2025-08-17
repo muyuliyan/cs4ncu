@@ -178,6 +178,7 @@ nav:
       - '调整提示框样式': 'guides/contributing/admonitions.md'
     - '内容贡献指南':
         - '写作规范': 'guides/contributing/writing-guide.md'
+        - '标签系统规范': 'guides/contributing/tag-system.md'
         - '写作指令 (prompt)': 'guides/contributing/writing-prompt.md'
     - '附录与参考':
       - '提示框样式样例': 'guides/contributing/admonitions-examples.md'

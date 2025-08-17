@@ -1,1 +1,55 @@
+# MkDocs 构建产物
 site/
+
+# Python 相关
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+
+# IDE 和编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# 临时文件和缓存
+*.tmp
+*.temp
+*.log
+*.cache
+.cache/
+
+# 操作系统生成的文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 备份文件
+*.bak
+*.backup
+*~
+
+# 文档草稿（如果不想提交）
+# drafts/
+
+# 归档文件（保留本地，不提交到远程仓库）
+archive/
+
+# UV 包管理器缓存
+.uv-cache/

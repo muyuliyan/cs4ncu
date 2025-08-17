@@ -61,6 +61,30 @@
 
   ---
 
+  ## 📂 项目结构
+
+  本项目采用清晰的模块化结构，便于维护和贡献：
+
+  ```
+  cs4ncu/
+  ├── 📄 README.md              # 项目介绍 (本文件)
+  ├── 📄 STRUCTURE.md           # 详细的项目结构说明
+  ├── 📄 mkdocs.yml             # 网站配置文件
+  ├── 📄 main.py                # 项目工具脚本
+  ├── 📁 docs/                  # 📚 核心文档内容
+  │   ├── 📁 chapters/          # 主要学习章节
+  │   ├── 📁 appendices/        # 昌大专属附录
+  │   ├── 📁 specials/          # 特色专题
+  │   ├── 📁 guides/            # 贡献指南
+  │   └── 📁 assets/css/js/     # 样式和资源文件
+  ├── 📁 overrides/             # 主题自定义
+  └── 📁 class0/                # 历史内容参考
+  ```
+
+  📖 **详细结构说明**: 查看 [`STRUCTURE.md`](./STRUCTURE.md) 了解每个目录的详细用途。
+
+  ---
+
   ## 🚀 Get Started / 快速开始
 
   想要在本地运行或为项目添砖加瓦？我们使用 `uv`，一个极速的 Python 包管理器，让一切变得简单。
@@ -86,6 +110,21 @@
       uv run mkdocs serve
       ```
       在浏览器中打开 `http://127.0.0.1:8000`，开始你的探索之旅吧！
+
+  ### 备选方案：使用传统 Python 环境
+
+  如果你暂时无法安装 `uv`，也可以使用传统方式：
+
+  ```bash
+  # 安装依赖
+  pip install mkdocs mkdocs-material
+
+  # 使用项目工具脚本
+  python main.py serve
+
+  # 或直接使用 mkdocs
+  mkdocs serve
+  ```
 
   ## 💖 We Need You / 成为贡献者
 

@@ -1,147 +1,307 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/tags/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/tags/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/appendices/a1-postgraduate-recommendation/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/aboutus/heart/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/appendices/a2-postgraduate-entrance-exam/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/before/overview/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/appendices/a3-major-transfer-guide/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/before/prologue-the-start/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/appendices/a4-program-guides/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/course/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/chapters/ch1-farewell-to-newbie/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/course/the-core/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/chapters/ch1-farewell-to-newbie/01-solve-problems-yourself/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/course/part1/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/chapters/ch1-farewell-to-newbie/02-know-your-laptop/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/course/part1/ch1-mindset/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/chapters/ch1-farewell-to-newbie/03-efficient-typing/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/course/part1/ch2-the-self/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/chapters/ch1-farewell-to-newbie/04-file-management/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/course/part2/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/chapters/ch1-farewell-to-newbie/05-essential-software/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/course/part2/ch3-information-filter/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/chapters/ch2-plan-your-future/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/course/part2/ch4-info-gathering/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/chapters/ch2-plan-your-future/01-career-paths-overview/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/course/part3/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/chapters/ch2-plan-your-future/02-find-your-why/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/course/part3/ch5-the-output/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/chapters/ch3-ncu-learning-guide/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/course/part3/ch6-the-test/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/chapters/ch3-ncu-learning-guide/01-ncu-hidden-gems/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/guides/contributing/admonitions-examples/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/chapters/ch3-ncu-learning-guide/02-find-your-tribe/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/guides/contributing/admonitions/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/chapters/ch4-hardcore-skills/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/guides/contributing/branch-protection/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/chapters/ch4-hardcore-skills/01-language-tour/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/guides/contributing/code-of-conduct/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/chapters/ch4-hardcore-skills/02-git-and-github-basics/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/guides/contributing/colors/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/chapters/ch4-hardcore-skills/03-further-learning-map/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/guides/contributing/deployment/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/guides/contributing/admonitions-examples/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/guides/contributing/development-log/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/guides/contributing/admonitions/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/guides/contributing/development-setup/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/guides/contributing/branch-protection/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/guides/contributing/figure/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/guides/contributing/code-of-conduct/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/guides/contributing/how-to-contribute/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/guides/contributing/colors/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/guides/contributing/pr-workflow-guide/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/guides/contributing/deployment/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/guides/contributing/styling/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/guides/contributing/development-log/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/guides/contributing/writing-guide/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/guides/contributing/development-setup/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/guides/contributing/writing-prompt/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/guides/contributing/figure/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/ncu/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/guides/contributing/how-to-contribute/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/ncu/a2-postgraduate-entrance-exam/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/guides/contributing/styling/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/ncu/a4-program-guides/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/guides/contributing/writing-guide/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/ncu/recommendation/cs/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/guides/contributing/writing-prompt/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/ncu/transfer/cs/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://ncuscc.github.io/cs4ncu/specials/vscode-the-ultimate-ide/</loc>
-         <lastmod>2025-08-17</lastmod>
+         <loc>https://cs4ncu.space/skills/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/communication/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/communication/skills/communication/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/communication/teamwork/teamwork/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/growth/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/growth/finance/financial-literacy/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/growth/finance/smart-spending/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/growth/health/healthy-management/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/growth/opportunity/career-planning/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/growth/opportunity/information-gap/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/growth/opportunity/innovation-classes/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/growth/opportunity/open-source-journey/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/learning/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/learning/consolidation/knowledge-consolidation/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/learning/energy/energy-management/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/learning/intake/information-intake/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/learning/meta/meta-learning/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/mindset/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/mindset/bias/confirmation-bias/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/mindset/bias/sunk-cost/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/mindset/bias/survivorship-bias/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/mindset/fixed/elite-complex/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/mindset/fixed/meritocracy/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/mindset/fixed/solver-mindset/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/mindset/mental/anxiety-impostor/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/mindset/mental/impostor-syndrome/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/mindset/model/bayesian-thinking/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/mindset/model/collaboration/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/tools/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/tools/literacy/computer-basics/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/tools/literacy/network-proxy/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/tools/literacy/typing/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/tools/pkm/cloud-notes/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/tools/pkm/collaboration-docs/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/tools/pkm/task-management/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/tools/pro/git/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/tools/pro/latex/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/tools/pro/linux/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/tools/pro/prompt-engineering/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/tools/vscode/</loc>
+         <lastmod>2025-08-22</lastmod>
+    </url>
+    <url>
+         <loc>https://cs4ncu.space/skills/tools/vscode/extensions/</loc>
+         <lastmod>2025-08-22</lastmod>
     </url>
 </urlset>
